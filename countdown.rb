@@ -2,7 +2,7 @@
 
 def countdown(number)
 
-while number > 0
-  puts "{#number} SECONDS(S)
+   while number > 0
+    puts "{#number} SECONDS(S)
 
 end
