@@ -2,7 +2,7 @@
 
 def countdown(number)
 
-while > 
+while number > 0
 
 
 end
